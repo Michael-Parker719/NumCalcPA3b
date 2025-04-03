@@ -3,4 +3,5 @@ To run this code from route directory run <br>
 ``python assignment_3.py``
 
 To test this code from route directory run <br>
-``python -m test.test_assignment_3``
+``cd test`` <br>
+``python test_assignment_3.py``
